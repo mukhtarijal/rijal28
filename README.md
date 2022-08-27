@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @21343009
+- 👋 Hi, I’m @MukhtaRijal
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on my friend
